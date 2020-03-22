@@ -1,0 +1,49 @@
+每日温度
+https://leetcode-cn.com/problems/daily-temperatures/
+回文子序列
+https://leetcode-cn.com/problems/longest-palindromic-subsequence/
+最大矩形 //todo
+https://leetcode-cn.com/problems/maximal-rectangle/
+
+两数之和
+移动零
+https://leetcode-cn.com/problems/move-zeroes/submissions/
+颜色分类
+https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/ 简单
+
+#############如下都是todo
+
+https://leetcode-cn.com/problems/game-of-life/ 中等 
+https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/ 中等
+https://leetcode-cn.com/problems/queue-reconstruction-by-height/  中等 ok
+
+
+https://leetcode-cn.com/problems/as-far-from-land-as-possible/ 中等  ok 重写一遍/遍历方式
+https://leetcode-cn.com/problems/subarrays-with-k-different-integers/ 困难
+
+https://leetcode-cn.com/problems/missing-ranges/ 中等
+https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k/ 中等
+
+//todo
+1、位运算、数组 27、31、48、56	//完成
+2、字符串 3、5、151  			//完成
+3、排序 324、215、373 //324 ok,215用堆重新实现下，  373复习
+4、堆、zhan、队列 20、224、347 //224计算器未完成，其他ok，              参考227
+5、链表、hash  19、92、82//19 ok
+6、双指针、滑动窗 424、480 567
+7、树、二叉树、字典树 220 652 919 102
+8、图算法（youxiang、wuxiang） 742 802 399 1161
+9、递归、迭代 698 779 794 894
+10、深度、广度搜索 113 417 542 200
+11、贪心 621 842 881
+12、动态规划 808 838 983 1039 139
+13、分治算法（二分、归并） 215 240 932 973
+
+再开发一遍
+56、https://leetcode-cn.com/problems/merge-intervals
+leetcode324中的todo事项、
+
+
+https://www.cnblogs.com/wzl19981116/p/9397203.html 力扣有个题目是走四个方向的，代码是啥呢
+
+

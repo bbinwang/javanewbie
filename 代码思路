@@ -1,0 +1,6 @@
+1、递归代码可以转换为循环实现时间复杂度降低，比如lengthOfLongestSubstring中countAndSay方法
+
+使用Stack讲递归转换为迭代
+https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/er-cha-shu-de-zui-da-shen-du-by-leetcode/
+
+2、
